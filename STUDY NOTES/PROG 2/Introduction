@@ -1,0 +1,24 @@
+===================================================
+   Welcome to Programming 2! 🎉 :DDD
+===================================================
+
+Hello! 
+
+First off, HUGE congratulations on passing Programming 1! 
+You've built a solid foundation with variables, conditions, loops, and basic array manipulation. 
+
+Now, we step into the real power of C! 
+
+In this batch of notes, we will dive into:
+  - Pointers & Memory Handling  (Understanding how RAM actually works!)
+  - Dynamic Memory Allocation   (malloc, calloc, realloc, and free)
+  - Structs & Custom Data Types (Building your own complex structures!)
+  - Sorting Algorithms          (Bubble Sort, Selection Sort, and logic)
+  - Intro to Linked Lists       (Connecting memory nodes together!)
+
+Take it one card at a time, code along in your editor, and don't be afraid to break things!
+
+Happy coding!
+===================================================
+
+(sorry daan if naa koy mga wrong spillings haha ) I genuinely made all of this by hand.
